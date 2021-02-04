@@ -15,7 +15,7 @@ const greeting = {
     'Officially I am a Telecom Engineer 📡 but I prefer to describe myself as a a technology 👨‍💻, software development 🚀 and music 🎸 enthusiast. '
   ),
   resumeLink:
-    'https://www.dropbox.com/s/pajkxnhehv08qpg/CV_Actualitzat.pdf?dl=0',
+    'https://www.dropbox.com/s/pajkxnhehv08qpg/CV.pdf?dl=0',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -39,7 +39,8 @@ const skillsSection = {
     emoji(
       '⚡ Software development using several tools, languages and frameworks'
     ),
-    emoji('⚡ Front end and Back end integration'),
+    emoji('⚡ Front end and Back end integration. Database management'),
+    emoji('⚡ Work cooperatively and always looking for creativity'),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
