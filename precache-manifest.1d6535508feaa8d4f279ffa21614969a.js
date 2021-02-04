@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a19d7af88ea5af9fbd04a999af057b6e",
+    "revision": "a7bde673c3b8af7168b7edcf21a244fe",
     "url": "/martiriera.github.io/index.html"
   },
   {
-    "revision": "e7fb59c80d9efb4a866a",
+    "revision": "386a5083abf6121b2313",
     "url": "/martiriera.github.io/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "57b6d1f05e4694b15b36",
+    "revision": "87d383e0cad88f1bb251",
     "url": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "14a0a07f2f128353cef9",
-    "url": "/martiriera.github.io/static/css/main.30ce39ee.chunk.css"
+    "revision": "e6551007291f55215077",
+    "url": "/martiriera.github.io/static/css/main.adca36b9.chunk.css"
   },
   {
-    "revision": "d8781e66bd6b68b62821",
-    "url": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js"
+    "revision": "58cfd0878926ee275d8a",
+    "url": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js.LICENSE.txt"
+    "url": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7fb59c80d9efb4a866a",
-    "url": "/martiriera.github.io/static/js/3.9dda8ada.chunk.js"
+    "revision": "386a5083abf6121b2313",
+    "url": "/martiriera.github.io/static/js/3.4d00bfac.chunk.js"
   },
   {
-    "revision": "57b6d1f05e4694b15b36",
-    "url": "/martiriera.github.io/static/js/4.cc0472ac.chunk.js"
+    "revision": "87d383e0cad88f1bb251",
+    "url": "/martiriera.github.io/static/js/4.7abb9b93.chunk.js"
   },
   {
-    "revision": "14a0a07f2f128353cef9",
-    "url": "/martiriera.github.io/static/js/main.f798c3b4.chunk.js"
+    "revision": "e6551007291f55215077",
+    "url": "/martiriera.github.io/static/js/main.de5575c7.chunk.js"
   },
   {
-    "revision": "a220114fb93ba57f152d",
-    "url": "/martiriera.github.io/static/js/runtime-main.0137686c.js"
+    "revision": "96ae0fd4b2dee739b512",
+    "url": "/martiriera.github.io/static/js/runtime-main.caa5e4eb.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
