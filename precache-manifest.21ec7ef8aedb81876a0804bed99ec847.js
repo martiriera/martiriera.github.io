@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbb02ad46119ae120e03b2822aaa2537",
+    "revision": "a19d7af88ea5af9fbd04a999af057b6e",
     "url": "/martiriera.github.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "5edbc509b71a485c7280",
+    "revision": "14a0a07f2f128353cef9",
     "url": "/martiriera.github.io/static/css/main.30ce39ee.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/martiriera.github.io/static/js/4.cc0472ac.chunk.js"
   },
   {
-    "revision": "5edbc509b71a485c7280",
-    "url": "/martiriera.github.io/static/js/main.580e502f.chunk.js"
+    "revision": "14a0a07f2f128353cef9",
+    "url": "/martiriera.github.io/static/js/main.f798c3b4.chunk.js"
   },
   {
     "revision": "a220114fb93ba57f152d",
