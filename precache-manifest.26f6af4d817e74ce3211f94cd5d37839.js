@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6e6961a3f91074c945d0a2aeecf5e92",
+    "revision": "e0b88e4072cf6439bf04ad7e5518ef92",
     "url": "/martiriera.github.io/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/martiriera.github.io/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "57b6d1f05e4694b15b36",
+    "revision": "87d383e0cad88f1bb251",
     "url": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "334ff93f1d07a6df06e5",
-    "url": "/martiriera.github.io/static/css/main.30ce39ee.chunk.css"
+    "revision": "7e3101c0111fa3ab2e1e",
+    "url": "/martiriera.github.io/static/css/main.adca36b9.chunk.css"
   },
   {
     "revision": "90635c7b26e6c389ad78",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/martiriera.github.io/static/js/3.7a4f48e6.chunk.js"
   },
   {
-    "revision": "57b6d1f05e4694b15b36",
-    "url": "/martiriera.github.io/static/js/4.cc0472ac.chunk.js"
+    "revision": "87d383e0cad88f1bb251",
+    "url": "/martiriera.github.io/static/js/4.7abb9b93.chunk.js"
   },
   {
-    "revision": "334ff93f1d07a6df06e5",
-    "url": "/martiriera.github.io/static/js/main.ec875874.chunk.js"
+    "revision": "7e3101c0111fa3ab2e1e",
+    "url": "/martiriera.github.io/static/js/main.a398afc5.chunk.js"
   },
   {
-    "revision": "2bcd1857c6b6f0bdfc10",
-    "url": "/martiriera.github.io/static/js/runtime-main.f94c1660.js"
+    "revision": "23cea005deb203607a2c",
+    "url": "/martiriera.github.io/static/js/runtime-main.734380cd.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
