@@ -1,0 +1,8 @@
+{
+  "short_name": "martiriera Portfolio",
+  "name": "martiriera Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6c63ff",
+  "background_color": "#ffffff"
+}
