@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/martiriera.github.io/precache-manifest.9b7bcd47088937781cac80a459a14b77.js"
+  "/martiriera.github.io/precache-manifest.5de68c444528667eb46018c04f2c5b5c.js"
 );
 
 self.addEventListener('message', (event) => {

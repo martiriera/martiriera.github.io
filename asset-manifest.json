@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/martiriera.github.io/static/css/main.30ce39ee.chunk.css",
-    "main.js": "/martiriera.github.io/static/js/main.a7904833.chunk.js",
-    "main.js.map": "/martiriera.github.io/static/js/main.a7904833.chunk.js.map",
-    "runtime-main.js": "/martiriera.github.io/static/js/runtime-main.448ba876.js",
-    "runtime-main.js.map": "/martiriera.github.io/static/js/runtime-main.448ba876.js.map",
+    "main.js": "/martiriera.github.io/static/js/main.ec875874.chunk.js",
+    "main.js.map": "/martiriera.github.io/static/js/main.ec875874.chunk.js.map",
+    "runtime-main.js": "/martiriera.github.io/static/js/runtime-main.f94c1660.js",
+    "runtime-main.js.map": "/martiriera.github.io/static/js/runtime-main.f94c1660.js.map",
     "static/js/2.392e1a4f.chunk.js": "/martiriera.github.io/static/js/2.392e1a4f.chunk.js",
     "static/js/2.392e1a4f.chunk.js.map": "/martiriera.github.io/static/js/2.392e1a4f.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/martiriera.github.io/static/css/3.00373544.chunk.css",
     "static/js/3.7a4f48e6.chunk.js": "/martiriera.github.io/static/js/3.7a4f48e6.chunk.js",
     "static/js/3.7a4f48e6.chunk.js.map": "/martiriera.github.io/static/js/3.7a4f48e6.chunk.js.map",
     "static/css/4.19dfc3d0.chunk.css": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css",
-    "static/js/4.0d174da2.chunk.js": "/martiriera.github.io/static/js/4.0d174da2.chunk.js",
-    "static/js/4.0d174da2.chunk.js.map": "/martiriera.github.io/static/js/4.0d174da2.chunk.js.map",
+    "static/js/4.cc0472ac.chunk.js": "/martiriera.github.io/static/js/4.cc0472ac.chunk.js",
+    "static/js/4.cc0472ac.chunk.js.map": "/martiriera.github.io/static/js/4.cc0472ac.chunk.js.map",
     "index.html": "/martiriera.github.io/index.html",
-    "precache-manifest.9b7bcd47088937781cac80a459a14b77.js": "/martiriera.github.io/precache-manifest.9b7bcd47088937781cac80a459a14b77.js",
+    "precache-manifest.5de68c444528667eb46018c04f2c5b5c.js": "/martiriera.github.io/precache-manifest.5de68c444528667eb46018c04f2c5b5c.js",
     "service-worker.js": "/martiriera.github.io/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/martiriera.github.io/static/css/3.00373544.chunk.css.map",
     "static/css/4.19dfc3d0.chunk.css.map": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css.map",
@@ -33,9 +33,9 @@
     "static/media/upcLogo.png": "/martiriera.github.io/static/media/upcLogo.9d1d7291.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.448ba876.js",
+    "static/js/runtime-main.f94c1660.js",
     "static/js/2.392e1a4f.chunk.js",
     "static/css/main.30ce39ee.chunk.css",
-    "static/js/main.a7904833.chunk.js"
+    "static/js/main.ec875874.chunk.js"
   ]
 }
