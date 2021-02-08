@@ -26,7 +26,8 @@ const socialMediaLinks = {
   linkedin: 'https://www.linkedin.com/in/martiriera/',
   gmail: 'martirieravila@gmail.com',
   gitlab: 'https://gitlab.com/martiriera',
-  // stackoverflow: 'https://stackoverflow.com/users/10422806/saad-pasta',
+  stackoverflow: 'https://stackoverflow.com/users/14983877/reir',
+  medium: 'https://martiriera.medium.com/',
   display: true, // Set true to display this section, defaults to false
 };
 
