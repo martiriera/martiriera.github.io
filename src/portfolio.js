@@ -144,7 +144,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Front-End Developer',
+      role: 'Front-End Developer Intern',
       company: 'Tracktio Group',
       companylogo: require('./assets/images/tracktioLogo.jpeg'),
       date: 'January 2019 – September 2020',
@@ -208,15 +208,15 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji('Achievements And Certifications'),
+  title: emoji('Achievements and certifications'),
   subtitle:
     '',
 
   achievementsCards: [
     {
-      title: 'Certified LabVIEW Associate Developer (Expired February 2020)',
+      title: 'Certified LabVIEW Associate Developer',
       subtitle:
-        'National Instruments',
+        'National Instruments (Expired February 2020)',
       image: require('./assets/images/cladLogo.jpg'),
       footerLink: [
         // {
