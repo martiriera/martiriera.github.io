@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/martiriera.github.io/static/css/main.adca36b9.chunk.css",
-    "main.js": "/martiriera.github.io/static/js/main.501b8f76.chunk.js",
-    "main.js.map": "/martiriera.github.io/static/js/main.501b8f76.chunk.js.map",
+    "main.js": "/martiriera.github.io/static/js/main.75bcfb17.chunk.js",
+    "main.js.map": "/martiriera.github.io/static/js/main.75bcfb17.chunk.js.map",
     "runtime-main.js": "/martiriera.github.io/static/js/runtime-main.3eff3273.js",
     "runtime-main.js.map": "/martiriera.github.io/static/js/runtime-main.3eff3273.js.map",
     "static/js/2.a4b7874d.chunk.js": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.cb6ac94b.chunk.js": "/martiriera.github.io/static/js/4.cb6ac94b.chunk.js",
     "static/js/4.cb6ac94b.chunk.js.map": "/martiriera.github.io/static/js/4.cb6ac94b.chunk.js.map",
     "index.html": "/martiriera.github.io/index.html",
-    "precache-manifest.2dcf7a0ce213a9021b95abd6ef16dc31.js": "/martiriera.github.io/precache-manifest.2dcf7a0ce213a9021b95abd6ef16dc31.js",
+    "precache-manifest.023f870c1ccfc9abd253ff86733e6f5b.js": "/martiriera.github.io/precache-manifest.023f870c1ccfc9abd253ff86733e6f5b.js",
     "service-worker.js": "/martiriera.github.io/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/martiriera.github.io/static/css/3.00373544.chunk.css.map",
     "static/css/4.19dfc3d0.chunk.css.map": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.3eff3273.js",
     "static/js/2.a4b7874d.chunk.js",
     "static/css/main.adca36b9.chunk.css",
-    "static/js/main.501b8f76.chunk.js"
+    "static/js/main.75bcfb17.chunk.js"
   ]
 }
