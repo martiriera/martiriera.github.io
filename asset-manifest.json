@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/martiriera.github.io/static/css/main.adca36b9.chunk.css",
-    "main.js": "/martiriera.github.io/static/js/main.9d929e93.chunk.js",
-    "main.js.map": "/martiriera.github.io/static/js/main.9d929e93.chunk.js.map",
-    "runtime-main.js": "/martiriera.github.io/static/js/runtime-main.caa5e4eb.js",
-    "runtime-main.js.map": "/martiriera.github.io/static/js/runtime-main.caa5e4eb.js.map",
-    "static/js/2.8aac8fe6.chunk.js": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js",
-    "static/js/2.8aac8fe6.chunk.js.map": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js.map",
+    "main.js": "/martiriera.github.io/static/js/main.501b8f76.chunk.js",
+    "main.js.map": "/martiriera.github.io/static/js/main.501b8f76.chunk.js.map",
+    "runtime-main.js": "/martiriera.github.io/static/js/runtime-main.3eff3273.js",
+    "runtime-main.js.map": "/martiriera.github.io/static/js/runtime-main.3eff3273.js.map",
+    "static/js/2.a4b7874d.chunk.js": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js",
+    "static/js/2.a4b7874d.chunk.js.map": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/martiriera.github.io/static/css/3.00373544.chunk.css",
-    "static/js/3.4d00bfac.chunk.js": "/martiriera.github.io/static/js/3.4d00bfac.chunk.js",
-    "static/js/3.4d00bfac.chunk.js.map": "/martiriera.github.io/static/js/3.4d00bfac.chunk.js.map",
+    "static/js/3.9dda8ada.chunk.js": "/martiriera.github.io/static/js/3.9dda8ada.chunk.js",
+    "static/js/3.9dda8ada.chunk.js.map": "/martiriera.github.io/static/js/3.9dda8ada.chunk.js.map",
     "static/css/4.19dfc3d0.chunk.css": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css",
-    "static/js/4.7abb9b93.chunk.js": "/martiriera.github.io/static/js/4.7abb9b93.chunk.js",
-    "static/js/4.7abb9b93.chunk.js.map": "/martiriera.github.io/static/js/4.7abb9b93.chunk.js.map",
+    "static/js/4.cb6ac94b.chunk.js": "/martiriera.github.io/static/js/4.cb6ac94b.chunk.js",
+    "static/js/4.cb6ac94b.chunk.js.map": "/martiriera.github.io/static/js/4.cb6ac94b.chunk.js.map",
     "index.html": "/martiriera.github.io/index.html",
-    "precache-manifest.37050a92f677e7c21cf8889f8cc2b711.js": "/martiriera.github.io/precache-manifest.37050a92f677e7c21cf8889f8cc2b711.js",
+    "precache-manifest.2dcf7a0ce213a9021b95abd6ef16dc31.js": "/martiriera.github.io/precache-manifest.2dcf7a0ce213a9021b95abd6ef16dc31.js",
     "service-worker.js": "/martiriera.github.io/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/martiriera.github.io/static/css/3.00373544.chunk.css.map",
     "static/css/4.19dfc3d0.chunk.css.map": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css.map",
     "static/css/main.adca36b9.chunk.css.map": "/martiriera.github.io/static/css/main.adca36b9.chunk.css.map",
-    "static/js/2.8aac8fe6.chunk.js.LICENSE.txt": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js.LICENSE.txt",
+    "static/js/2.a4b7874d.chunk.js.LICENSE.txt": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/martiriera.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/cambridgeLogo.jpeg": "/martiriera.github.io/static/media/cambridgeLogo.b0fd0942.jpeg",
     "static/media/cladLogo.jpg": "/martiriera.github.io/static/media/cladLogo.91adcb8b.jpg",
@@ -33,9 +33,9 @@
     "static/media/upcLogo.png": "/martiriera.github.io/static/media/upcLogo.9d1d7291.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.caa5e4eb.js",
-    "static/js/2.8aac8fe6.chunk.js",
+    "static/js/runtime-main.3eff3273.js",
+    "static/js/2.a4b7874d.chunk.js",
     "static/css/main.adca36b9.chunk.css",
-    "static/js/main.9d929e93.chunk.js"
+    "static/js/main.501b8f76.chunk.js"
   ]
 }

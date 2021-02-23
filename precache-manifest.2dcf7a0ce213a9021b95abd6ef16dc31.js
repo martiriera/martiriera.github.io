@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb95cccc6ff761bb9dfbfb4be45e3580",
+    "revision": "58315bf3cd3b818ba3136f379d453336",
     "url": "/martiriera.github.io/index.html"
   },
   {
-    "revision": "386a5083abf6121b2313",
+    "revision": "e7fb59c80d9efb4a866a",
     "url": "/martiriera.github.io/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "87d383e0cad88f1bb251",
+    "revision": "f41ac79788d2f4241352",
     "url": "/martiriera.github.io/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "19115cb43d7e377248c0",
+    "revision": "127ead73da447031843d",
     "url": "/martiriera.github.io/static/css/main.adca36b9.chunk.css"
   },
   {
-    "revision": "58cfd0878926ee275d8a",
-    "url": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js"
+    "revision": "d8781e66bd6b68b62821",
+    "url": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/martiriera.github.io/static/js/2.8aac8fe6.chunk.js.LICENSE.txt"
+    "url": "/martiriera.github.io/static/js/2.a4b7874d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "386a5083abf6121b2313",
-    "url": "/martiriera.github.io/static/js/3.4d00bfac.chunk.js"
+    "revision": "e7fb59c80d9efb4a866a",
+    "url": "/martiriera.github.io/static/js/3.9dda8ada.chunk.js"
   },
   {
-    "revision": "87d383e0cad88f1bb251",
-    "url": "/martiriera.github.io/static/js/4.7abb9b93.chunk.js"
+    "revision": "f41ac79788d2f4241352",
+    "url": "/martiriera.github.io/static/js/4.cb6ac94b.chunk.js"
   },
   {
-    "revision": "19115cb43d7e377248c0",
-    "url": "/martiriera.github.io/static/js/main.9d929e93.chunk.js"
+    "revision": "127ead73da447031843d",
+    "url": "/martiriera.github.io/static/js/main.501b8f76.chunk.js"
   },
   {
-    "revision": "96ae0fd4b2dee739b512",
-    "url": "/martiriera.github.io/static/js/runtime-main.caa5e4eb.js"
+    "revision": "cb391c4ca947fba0a232",
+    "url": "/martiriera.github.io/static/js/runtime-main.3eff3273.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
