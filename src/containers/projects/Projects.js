@@ -16,24 +16,21 @@ export default function Projects() {
   // todo: remove useContex because is not supported
   const { isDark } = useContext(StyleContext);
   useEffect(() => {
-    getRepoData();
-  }, []);
+    function getRepoData() {
+      const client = new ApolloClient({
+        uri: "https://api.github.com/graphql",
+        request: (operation) => {
+          operation.setContext({
+            headers: {
+              authorization: `Bearer ${openSource.githubConvertedToken}`,
+            },
+          });
+        },
+      });
 
-  function getRepoData() {
-    const client = new ApolloClient({
-      uri: "https://api.github.com/graphql",
-      request: (operation) => {
-        operation.setContext({
-          headers: {
-            authorization: `Bearer ${openSource.githubConvertedToken}`,
-          },
-        });
-      },
-    });
-
-    client
-      .query({
-        query: gql`
+      client
+        .query({
+          query: gql`
         {
         user(login: "${openSource.githubUserName}") {
           pinnedItems(first: 6, types: [REPOSITORY]) {
@@ -61,24 +58,29 @@ export default function Projects() {
         }
       }
         `,
-      })
-      .then((result) => {
-        setrepoFunction(result.data.user.pinnedItems.edges);
-        console.log(result);
-      })
-      .catch(function (error) {
-        console.log(error);
-        setrepoFunction("Error");
-        console.log(
-          "Because of this Error, nothing is shown in place of Projects section. Projects section not configured"
-        );
-      });
-  }
+        })
+        .then((result) => {
+          setrepoFunction(result.data.user.pinnedItems.edges);
+          console.log(result);
+        })
+        .catch(function (error) {
+          console.log(error);
+          setrepoFunction("Error");
+          console.log(
+            "Because of this Error, nothing is shown in place of Projects section. Projects section not configured"
+          );
+        });
+    }
+    getRepoData();
+  }, []);
 
   function setrepoFunction(array) {
     setrepo(array);
   }
-  if (!(typeof repo === "string" || repo instanceof String) && openSource.display) {
+  if (
+    !(typeof repo === "string" || repo instanceof String) &&
+    openSource.display
+  ) {
     return (
       <Suspense fallback={renderLoader()}>
         <div className="main" id="opensource">
