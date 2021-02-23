@@ -5,7 +5,7 @@
 import emoji from 'react-easy-emoji';
 
 const illustration = {
-  animated: false, // set to false to use static SVG
+  animated: true, // set to false to use static SVG
 };
 
 const greeting = {
@@ -34,12 +34,10 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: 'What can I do',
-  subTitle: '',
+  title: 'What can I do?',
+  subTitle: 'Languages ​​and tools I have worked with (at least once)',
   skills: [
-    emoji(
-      '⚡ Software development using several tools, languages and frameworks'
-    ),
+    emoji('⚡ Software development using several tools, languages and frameworks'),
     emoji('⚡ Front end and Back end integration. Database management'),
     emoji('⚡ Work cooperatively and always looking for creativity'),
   ],
@@ -53,10 +51,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-js',
     },
     {
-      skillName: 'reactjs',
-      fontAwesomeClassname: 'fab fa-react',
-    },
-    {
       skillName: 'Java',
       fontAwesomeClassname: 'fab fa-java',
     },
@@ -67,6 +61,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: 'html5',
       fontAwesomeClassname: 'fab fa-html5',
+    },
+    {
+      skillName: 'reactjs',
+      fontAwesomeClassname: 'fab fa-react',
     },
     {
       skillName: 'nodejs',
@@ -102,7 +100,7 @@ const educationInfo = {
       logo: require('./assets/images/upcLogo.png'),
       subHeader: 'Master\'s degree in Advanced Telecommunication Technologies',
       duration: 'Now',
-      // desc: 'Participated in the research of XXX and published 3 papers.',
+      desc: 'Multidisciplinary track with subjects related to ML, DL, cybersecurity and networks.',
       // descBullets: [
       //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
@@ -165,7 +163,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
+  githubConvertedToken: process.env.ACCESS_TOKEN,
   githubUserName: 'martiriera', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'false', // Set true or false to show Contact profile using Github, defaults to true
   display: true, // Set false to hide this section, defaults to true
@@ -216,7 +214,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: 'Certified LabVIEW Associate Developer',
+      title: 'Certified LabVIEW Associate Developer (Expired February 2020)',
       subtitle:
         'National Instruments',
       image: require('./assets/images/cladLogo.jpg'),
@@ -296,7 +294,7 @@ const podcastSection = {
   title: emoji('Podcast 🎙️'),
   subtitle: 'I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY',
 
-  // Please Provide with Your Podcast embeded Link
+  // Please Provide with Your Podcast embedded Link
   podcast: [
     'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
   ],
