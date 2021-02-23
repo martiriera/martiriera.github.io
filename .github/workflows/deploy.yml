@@ -17,6 +17,7 @@ jobs:
           npm install
           npm run-script build
         env:
+          CI: ""
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Deploy 🚀
