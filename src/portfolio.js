@@ -12,7 +12,7 @@ const greeting = {
   username: 'Martí Riera Vila',
   title: "Hello world, this is Martí",
   subTitle: emoji(
-    'Officially I am a Telecom Engineer 📡 but I prefer to describe myself as a a technology 👨‍💻, software development 🚀 and music 🎸 enthusiast. '
+    'Officially I am a Telecom Engineer 📡 but I prefer to describe myself as a a technology 👨‍💻, software development 🚀 and music 🎸 enthusiast.'
   ),
   resumeLink:
     'https://www.dropbox.com/s/pajkxnhehv08qpg/CV.pdf?dl=0',
@@ -302,7 +302,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji('Contact Me ☎️'),
+  title: emoji('Contact me'),
   subtitle:
     '',
   number: '+34 618 78 21 49',
