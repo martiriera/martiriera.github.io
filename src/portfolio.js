@@ -100,7 +100,7 @@ const educationInfo = {
       logo: require('./assets/images/upcLogo.png'),
       subHeader: 'Master\'s degree in Advanced Telecommunication Technologies',
       duration: 'Now',
-      desc: 'Multidisciplinary track with subjects related to ML, DL, cybersecurity and networks.',
+      desc: 'Multidisciplinary track studying subjects related to ML, DL, cybersecurity and networks.',
       // descBullets: [
       //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       //   'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
