@@ -153,7 +153,7 @@ const workExperiences = {
       descBullets: [
         'Adding contents and features to the web-app, bug-hunting, deployment.',
         'Configuration, installation and usage of tracking devices such as tags or gateways.',
-        'Performing local and remote demos and PoC\'s to customers.'
+        'Performing on-site and remote demos and PoC\'s to international customers.'
       ],
     }
   ],
@@ -251,19 +251,19 @@ const blogSection = {
         'https://upcommons.upc.edu/handle/2117/329276',
       title: 'Data synchronization for a fingerprinting-based mobile location app',
       description:
-        'Implementation of a server with a database that synchronizes the data from and to a multi-device fingerprinting location app',
+        'Implementation of a server with a database that synchronizes the data from and to a multi-device fingerprinting location app.',
     },
     {
       url: 'https://dislexiaupc.github.io/',
       title: 'Dyscaperoom',
       description:
-        'Co-creation of a functional VR experience that simulates dyslexia and generates empathy towards it,using multiple audio-visual effects',
+        'Co-creation of a functional VR experience that simulates dyslexia and generates empathy towards it, using multiple audio-visual effects.',
     },
     {
       url: 'https://www.dropbox.com/s/dltblxv1y0slokk/Kaggle%20Competition%20Paper%20by%20Riera-Wasmer%20Fall%202020.pdf?dl=0',
       title: 'Kaggle Competition - Anomaly detection in 4G cellular networks',
       description:
-        'Solve a classification problem proposed as a competition hosted by Kaggle platform. ',
+        'Solve a classification problem proposed as a competition hosted by Kaggle platform.',
     },
   ],
   display: true, // Set false to hide this section, defaults to true
