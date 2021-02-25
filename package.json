@@ -1,6 +1,6 @@
 {
-  "homepage": "https://martiriera.github.io/martiriera.github.io",
-  "name": "martiriera.github.io",
+  "homepage": "https://martiriera.netlify.app",
+  "name": "martiriera.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
