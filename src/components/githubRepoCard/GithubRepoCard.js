@@ -47,7 +47,6 @@ export default function GithubRepoCard({ repo, isDark }) {
               <span>
                 <svg
                   aria-hidden="true"
-                  className="octicon"
                   height="20"
                   role="img"
                   viewBox="0 0 10 16"
