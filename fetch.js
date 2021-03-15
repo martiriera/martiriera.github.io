@@ -5,7 +5,6 @@ const https = require("https");
 const GITHUB_TOKEN = process.env.REACT_APP_GITHUB_TOKEN;
 const GITHUB_USERNAME = process.env.GITHUB_USERNAME;
 
-console.log(process.env.REACT_APP_GITHUB_TOKEN)
 console.log(`fetching profile for ${GITHUB_USERNAME}`);
 var data = JSON.stringify({
   query: `
